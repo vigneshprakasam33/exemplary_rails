@@ -1,0 +1,6 @@
+== README
+
+Rails project with html5 exemplary template (http://html5layouts.com/exemplary/) integrated.
+
+Enjoy!
+
